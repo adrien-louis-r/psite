@@ -1,8 +1,8 @@
 - name: linkedin
-  url: https://linkedin.com/in/username
+  url: https://linkedin.com/in/adrien-louis-rossignol-887bb8194/
 
 - name: twitter
-  url: https://twitter.com/username
+  url: https://twitter.com/adrienLoRo
 
 - name: facebook
   url:
@@ -20,7 +20,7 @@
   url:
 
 - name: github
-  url: https://github.com/username
+  url: https://github.com/adrien-louis-r
 
 - name: goodreads
   url:
@@ -33,4 +33,3 @@
 
 - name: medium
   url:
-

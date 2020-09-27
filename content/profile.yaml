@@ -1,29 +1,36 @@
 - profile:
-  initials: JD
-  name: John Doe
-  email: john.doe@change.me
-  profession: Web Developer
+  initials: ALR
+  name: Adrien Louis-Rossignol
+  email: adrien.louis.r@gmail.com
+  profession: Développeur Web
   image: images/profile.jpg
-  location: New York, USA
-  relocation: true
-  company: Atomic Studio
-  for_hire: true
-  focus: Learning Gatsby
+  location: Toulouse
+  relocation: false
+  company: En indépendant
+  for_hire: false
+  focus: Apprendre Gatsby
   focus_url: https://gatsbyjs.org
   about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
   skills:
     - JavaScript
+    - PHP
     - HTML / CSS
-    - Ruby on Rails
+    - E-commerce
+    - Elixir
   tools:
     - React
-    - VSCode
+    - NodeJs
     - Gatsby
+    - Git
+    - Magento
+    - Symfony
+    - Docker
+
   budget:
-    currency: $
-    min: 5
+    currency: €
+    min: 2
     max: 30
-    default: 10
+    default: 5
