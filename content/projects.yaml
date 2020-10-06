@@ -1,18 +1,22 @@
-- name: Exemple 1
-  url: https://github.com
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- name: Gatsbylius
+  url: https://github.com/Gatsbylius/Gatsbylius
+  description: Gatsbylius utilise Gatsby pour créer des sites eCommerces PWA à l'aide de React et Sylius en headless
   status: en cours
   tags:
     - JavaScript
     - Gatsby
   icon: github
+  image: images/logo-gatsbylius.jpg
 
-- name: Exemple 2
-  url: https://github.com
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  status: en ligne
+- name: simpdevCRM
+  url: https://github.com/adrien-louis-r/simpdevCRM
+  description: "Un CRM simple pour répondre à mes besoins : gestion de contact, devis, facturation."
+  status: en cours
   tags:
     - JavaScript
-    - HTML
+    - React
+    - NodeJS
+    - GraphQL
+    - PostgreSQL
+    - Tailwindcss
   icon: website
-  image: images/project.jpg
